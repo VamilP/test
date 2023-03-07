@@ -1,0 +1,14 @@
+html,
+body {
+    /* background: url(Header_4.jpg); */
+    background-color:cornflowerblue;
+    background-size: cover;
+}
+h1 {
+    font-size: 3rem;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 100px;
+    padding: auto;
+    text-decoration: underline;
+}
